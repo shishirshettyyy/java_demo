@@ -1,0 +1,11 @@
+class student 
+{
+int rollno;
+int sem;
+String name;
+int total_marks;
+
+student()
+{
+rollno=0;
+name
